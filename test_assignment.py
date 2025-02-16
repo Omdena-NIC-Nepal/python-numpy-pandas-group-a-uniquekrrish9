@@ -3,7 +3,7 @@ import nbformat
 import os
 import numpy as np
 import pandas as pd
-from IPython.display import display
+
 
 class TestAssignmentNotebook(unittest.TestCase):
     @classmethod
